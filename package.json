@@ -10,19 +10,23 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@capacitor-community/fcm": "^2.0.0",
     "@capacitor/app": "1.0.3",
     "@capacitor/core": "3.2.2",
     "@capacitor/haptics": "1.0.3",
     "@capacitor/keyboard": "1.0.3",
     "@capacitor/status-bar": "1.0.3",
+    "@ionic-native/fcm": "^5.36.0",
     "@ionic/vue": "^5.4.0",
     "@ionic/vue-router": "^5.4.0",
+    "cordova-plugin-fcm-with-dependecy-updated": "^7.8.0",
     "core-js": "^3.6.5",
     "vue": "^3.2.1",
     "vue-router": "^4.0.0-0"
   },
   "devDependencies": {
     "@capacitor/cli": "3.2.2",
+    "@ionic/app-scripts": "^3.2.4",
     "@types/jest": "^24.0.19",
     "@typescript-eslint/eslint-plugin": "^2.33.0",
     "@typescript-eslint/parser": "^2.33.0",

@@ -1,5 +1,7 @@
 {
   "name": "desafio_ionic",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "vue"
 }
