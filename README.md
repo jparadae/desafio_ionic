@@ -51,5 +51,14 @@ ionic serve
 ```
 
 
+# Compilar en Android
+
+```
+ionic build
+ionic cap add android
+ionic cap copy
+ionic cap sync
+ionic cap open android
+```
 
 

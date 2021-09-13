@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "854834560540",
+    "project_id": "ionic-vue-f4fa9",
+    "storage_bucket": "ionic-vue-f4fa9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854834560540:android:c7c5b605b3b12e973229d9",
+        "android_client_info": {
+          "package_name": "ionic.vue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854834560540-1htiak0n60185apei6r9th0i6b9d7vjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvfZM5roakCVJDCkveDC-2q4t_F6OcrKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854834560540-1htiak0n60185apei6r9th0i6b9d7vjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
